@@ -1,0 +1,4 @@
+/bin/
+src/ch/epfl/da/ProcessSigHandler$1.class
+src/da_proc_*.out
+*.class

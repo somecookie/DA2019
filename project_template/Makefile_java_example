@@ -1,0 +1,7 @@
+all: Da_proc
+
+Da_proc: Main.java
+	javac Main.java
+
+clean:
+	rm Main.class
